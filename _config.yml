@@ -12,7 +12,7 @@ title                    : "Roberto Ben / Site Title"
 title_separator          : "-"
 name                     : &name "Roberto Ben"
 description              : &description "Profesor de matemática"
-url                      : https://Rober-mat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rober-mat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rober-mat/paginaacademica.github.io"
 
