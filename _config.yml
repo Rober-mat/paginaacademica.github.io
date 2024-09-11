@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Roberto Ben / Site Title"
+title                    : "Roberto Ben / Página personal"
 title_separator          : "-"
 name                     : &name "Roberto Ben"
 description              : &description "Profesor de matemática"
